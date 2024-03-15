@@ -1,0 +1,45 @@
+a=(input("type your name:\n"))
+
+print("now you will be infodumped about my favourite show" , a )
+
+z=(input("say yes: "))
+
+
+b="""The story begins with the Rebel Alliance's struggle against the tyrannical Galactic Empire, led by the sinister Emperor Palpatine and his enforcer, Darth Vader. A young farmer named Luke Skywalker, along with Princess Leia Organa, Han Solo, Chewbacca, and a host of other characters, embark on a journey to overthrow the Empire. Luke discovers his connection to the Force, a mystical energy that grants individuals special abilities. The trilogy climaxes with the redemption of Darth Vader, who sacrifices himself to save his son, Luke, and destroy the Emperor.
+
+"Episode IV: A New Hope" (1977):
+The Rebel Alliance, aided by Jedi Obi-Wan Kenobi and smuggler Han Solo, attempts to destroy the Death Star, a planet-destroying weapon created by the Empire.
+
+"Episode V: The Empire Strikes Back" (1980):
+The Rebellion faces setbacks as they are pursued by the Empire. Luke trains with Yoda to become a Jedi, Han Solo is frozen in carbonite, and the revelation of Darth Vader as Luke's father shocks the galaxy.
+
+"Episode VI: Return of the Jedi" (1983):
+The Rebels launch a final assault on the Empire, leading to a confrontation on the forest moon of Endor. Luke confronts Vader and the Emperor, resulting in the fall of the Sith and the redemption of Anakin Skywalker.
+
+The Prequel Trilogy:
+Lucas later produced a prequel trilogy that explores the rise of the Galactic Empire and the fall of the Jedi Order.
+
+"Episode I: The Phantom Menace" (1999):
+Jedi Qui-Gon Jinn discovers a young slave named Anakin Skywalker with exceptional Force abilities. The Sith, led by Darth Sidious, manipulate events to their advantage.
+
+"Episode II: Attack of the Clones" (2002):
+Anakin, now a Jedi apprentice, falls in love with Padmé Amidala. The Republic faces growing unrest, leading to the creation of a clone army. The Sith's machinations become more apparent.
+
+"Episode III: Revenge of the Sith" (2005):
+The Clone Wars reach their climax as Anakin succumbs to the dark side, becoming Darth Vader. The Jedi are betrayed, and the Galactic Empire is established. Padmé dies, and the twins Luke and Leia are separated.
+
+The Sequel Trilogy:
+Decades after the defeat of the Empire, a new threat emerges in the form of the First Order.
+
+"Episode VII: The Force Awakens" (2015):
+The Resistance, led by General Leia Organa, opposes the First Order. A scavenger named Rey discovers her Force sensitivity, and a stormtrooper named Finn defects.
+
+"Episode VIII: The Last Jedi" (2017):
+Rey seeks training from the exiled Luke Skywalker, while the Resistance faces dire straits. The film explores themes of failure and redemption.
+
+"Episode IX: The Rise of Skywalker" (2019):
+Rey confronts the resurrected Emperor Palpatine, and the Resistance rallies for a final confrontation against the First Order. The saga concludes with the defeat of the Sith and the establishment of a new balance in the Force"""""
+
+print( b )
+
+input()
